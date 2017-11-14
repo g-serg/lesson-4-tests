@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Modal from './Modal';
+import './ModalButton.css';
 
 class ModalButton extends Component {
   state = {isModalShow: false};
